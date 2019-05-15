@@ -31,3 +31,5 @@ Consiste en que cada objeto tenga una unica responsabilidad. La protege ante gra
 ## Qué características tiene, según su opinión, un “buen” código o código limpio?
 
 Un buen codigo, o un codigo limpio se logra a partir de la division de capas, ya que cada una tiene una resposabilidad marcada, y el estar estas capas desacopladas, es facil su mentenimiento, su entendimiento y su testeo unitario.
+Es un codigo limpio, mantenible y escalable.
+
