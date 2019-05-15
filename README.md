@@ -20,7 +20,7 @@ Esta capa contiene las reglas del la aplicación o negocio. Tambien el modelo de
 
 ### Data
 
-Esta capa define la fuente de datos y los repositorios. Aqui se encuentran el acceso a la API (Retrofit) de las Movies y la tambien el acceso al cache (Room).
+Esta capa define la fuente de datos y los repositorios. Aqui se encuentran el acceso a la API (Retrofit) de las Movies y tambien el acceso al cache (Room).
 
 
 
