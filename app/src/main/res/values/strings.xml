@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SampleMovies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- navigation menu -->
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="transition_picture">picture_transition</string>
+
+    <!-- Movie detail screen -->
+    <string name="movie_detail_release_date">Release date: %s</string>
+    <string name="movie_detail_overview_title">Overview</string>
+    <string name="movie_detail_videos_title">Videos</string>
+    <string name="movie_detail_reviews_title">Reviews</string>
+
+    <!-- Content description -->
+    <string name="content_description_movie_poster">Movie poster image</string>
+    <string name="content_description_movie_backdrop">Movie backdrop image</string>
+    <string name="content_description_movie_video">Movie video thumbnail</string>
+    <string name="content_description_no_movies_icon">No movies icon</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="search_no_results_message">No results for\n%s</string>
+    <string name="n_a">N/A</string>
+    <string name="type_here_to_begin_your_search">Type here to begin your search...</string>
+    <string name="search">Search</string>
+
+</resources>
